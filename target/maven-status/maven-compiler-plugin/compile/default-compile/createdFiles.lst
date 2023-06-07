@@ -1,0 +1,5 @@
+com\credibanco\dependencia\Http\HttpService.class
+com\credibanco\dependencia\DependenciaApplication.class
+com\credibanco\dependencia\dto\UserDTORequest.class
+com\credibanco\dependencia\dto\UserDTOResponse.class
+com\credibanco\dependencia\Utils\NumberCard.class
